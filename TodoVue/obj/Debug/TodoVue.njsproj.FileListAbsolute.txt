@@ -1,0 +1,3 @@
+C:\Users\trine.skadal\source\repos\TodoVue\TodoVue\obj\Debug\TodoVue.njsproj.AssemblyReference.cache
+C:\Users\trine.skadal\source\repos\TodoVue\TodoVue\obj\Debug\TodoVue.njsproj.CoreCompileInputs.cache
+C:\Users\trine.skadal\source\repos\TodoVue\TodoVue\bin\Microsoft.NodejsTools.WebRole.dll
